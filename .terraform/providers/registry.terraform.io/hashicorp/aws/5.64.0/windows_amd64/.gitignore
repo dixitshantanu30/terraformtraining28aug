@@ -1,0 +1,2 @@
+# Ignore entire .terraform directory
+.terraform/
